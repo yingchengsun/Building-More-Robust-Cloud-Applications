@@ -1,0 +1,40 @@
+
+a:link {
+	COLOR: #000000;
+	text-decoration: none
+}
+
+a:visited {
+	COLOR: #000000;
+	text-decoration: none
+}
+
+a:hover {
+	COLOR: #3366cc;
+	text-decoration: none
+}
+
+a:active {
+	COLOR: #3366cc;
+	text-decoration: none
+}
+body {
+	margin-left: auto;
+	margin-right: auto;
+	color: #000000;
+	height: 1000px;
+	width: 900px;
+}
+
+
+#table {
+	background-image: url('/rubis/images/newmenubg.gif');
+	text-align: center;
+	height:14px;
+	width:100%;
+	font-size:13;
+	font-weight: bold;
+	float:left;
+	color:#ffffff;
+	line-height: 14px;
+}

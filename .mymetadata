@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="rubis"
+  id="myeclipse.1414198818022"
+  context-root="/rubis"
+  j2ee-spec="5.0"
+  archive="rubis.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
